@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "productName": "outfit",
+      "productImg": "https://i.pinimg.com/564x/d5/29/2c/d5292cfe51fb5efadc14b3ea540eafc4.jpg",
+      "productDescription": "clothes, cap and shoes designer",
+      "productPrice": "10000",
+      "id": 9
+    },
+    {
+      "productName": "camera",
+      "productImg": "https://images.unsplash.com/photo-1554080353-a576cf803bda?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cGhvdG98ZW58MHx8MHx8&w=1000&q=80",
+      "productDescription": "Cannon Camera\n",
+      "productPrice": "20500",
+      "id": 10
+    },
+    {
+      "productName": "",
+      "productImg": "",
+      "productDescription": "",
+      "productPrice": "",
+      "id": 11
+    }
+  ]
+}
